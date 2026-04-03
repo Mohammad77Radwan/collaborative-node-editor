@@ -1,0 +1,12 @@
+{
+  "idl.mcp.enabled": false,
+  "idl.IDL.directory": "/home/codespace",
+  "idl.IDL.environment": {
+    "IDL_DIR": "/home/codespace"
+  },
+  "idl.IDL.path": [],
+  "idl.IDL.addWorkspaceFoldersToPath": false,
+  "idl.problems.includeProblemsFromIDLPath": false,
+  "idl.problems.includeProblemsFromIDLPackages": false,
+  "idl.problems.reportDocsProblems": false
+}

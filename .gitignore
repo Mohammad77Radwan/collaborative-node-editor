@@ -1,0 +1,8 @@
+node_modules/
+target/
+dist/
+crates/synapse-core/pkg/
+.venv/
+.DS_Store
+.vite/
+*.log
